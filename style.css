@@ -3,4 +3,5 @@ h1 {text-align: center;
 color: indigo;
 font-size: 60px;}
 p { font-size: 50px;}
-.principal { background: white;}
+.principal { background: white;
+font-size: 20px; color: rgb(233, 13, 127);}
